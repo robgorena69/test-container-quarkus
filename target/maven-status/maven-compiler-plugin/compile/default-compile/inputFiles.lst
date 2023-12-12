@@ -1,0 +1,7 @@
+/home/rcgorena/gitlab/testcontainer/msa-testcontainer/src/main/java/bo/gob/ruat/testcontainer/infrastructure/adapter/secondary/model/jpa/UsuarioJPA.java
+/home/rcgorena/gitlab/testcontainer/msa-testcontainer/src/main/java/bo/gob/ruat/testcontainer/infrastructure/adapter/secondary/repository/jpa/UsuarioRepositoryImpl.java
+/home/rcgorena/gitlab/testcontainer/msa-testcontainer/src/main/java/bo/gob/ruat/testcontainer/application/port/primary/IUsuarioUseCase.java
+/home/rcgorena/gitlab/testcontainer/msa-testcontainer/src/main/java/bo/gob/ruat/testcontainer/application/usecase/UsuarioUseCaseImpl.java
+/home/rcgorena/gitlab/testcontainer/msa-testcontainer/src/main/java/bo/gob/ruat/testcontainer/infrastructure/adapter/primary/rest/UsuarioRest.java
+/home/rcgorena/gitlab/testcontainer/msa-testcontainer/src/main/java/bo/gob/ruat/testcontainer/application/port/secondary/IUsuarioRepository.java
+/home/rcgorena/gitlab/testcontainer/msa-testcontainer/src/main/java/bo/gob/ruat/testcontainer/domain/entity/UsuarioEntity.java
